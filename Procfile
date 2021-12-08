@@ -1,0 +1,1 @@
+web: gunicorn remapp.wsgi --log-file -
